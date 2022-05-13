@@ -1,3 +1,7 @@
+/* Have the function SwapCase(str) take the str parameter and
+swap the case of each character.
+For example: Input: "Hello-LOL" then output: hELLO-lol  */
+
 public static String SwapCase(String str) {
 
     char[] chars = str.toCharArray() ; 
