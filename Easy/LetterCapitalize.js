@@ -1,3 +1,7 @@
+/* Capitalize the first letter of each word.
+For example: Input: "hello word" -> Output: Hello World */
+
+
 function LetterCapitalize(str) {
     //code goes here
 
